@@ -81,6 +81,8 @@ The Dapr Agentic Cloud Ascent (DACA) guide introduces a strategic design pattern
 
 **[Comprehensive Guide to Dapr Agentic Cloud Ascent (DACA) Design Pattern](https://github.com/panaversity/learn-agentic-ai/blob/main/comprehensive_guide_daca.md)**
 
+**[Top 10 Best Practices for DACA](./top_10_best_practices.md)** | **[English Version](./top_10_best_practices_en.md)**
+
 <p align="center">
 <img src="./img/ascent.png" width="500">
 </p>
